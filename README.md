@@ -4,4 +4,4 @@
 ## linux & mac
 ```bash
 # 通过brew下载
-brew install txdocs/docs-addon-tools/docs-addon-tools  
+brew install txdocs/addon/docs-addon-tools  
