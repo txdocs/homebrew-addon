@@ -4,8 +4,8 @@
 class DocsAddonTools < Formula
   desc "插件开发工具"
   homepage ""
-  url "https://cdn.addon.tencentsuite.com/addon-tools/beta/docs-addon-tools-macos-v1.16.0.zip", :using => :curl
-  sha256 "924d39d344f42353192909e25f99c468eaf7108f7a5a6a1914f18429ee5439f2"
+  url "https://cdn.addon.tencentsuite.com/addon-tools/beta/docs-addon-tools-macos-v1.17.0.zip", :using => :curl
+  sha256 "332fb5b8b007465bafc1bab7a948d57dbe1882ca4efe59795f86044dec8ea908"
   license "Apache-2.0"
   
   # depends_on "cmake" => :build
